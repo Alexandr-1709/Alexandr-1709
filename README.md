@@ -51,7 +51,7 @@
 ## :man_student: Образование
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="bottom"><img src="images/social_networks/RTF_logo.png"></td><td valign="middle">Уральский федеральный университет.</br>Институт радиоэлектроники и информационных технологий.</td></tr>
+    <td width="30%" valign="bottom"><img src="images/logo_stacks/RTF_logo.png"></td><td valign="middle">Уральский федеральный университет.</br>Институт радиоэлектроники и информационных технологий.</td></tr>
   </table>
   </br>
   
@@ -59,7 +59,7 @@
 <table width="100%" border='0'>
    <tr><td width="30%" valign="bottom"><img src="images/logo_stacks/shultais.png"></td><td valign="middle">Основы SQL <a target="_blank" href="https://stepik.org/course/51562/syllabus">shultais school</a>.</td></tr>
    
-   <tr><td width="30%" valign="bottom"><img src="images/social_networks/qa_guru.png"></td><td valign="middle">Автоматизация тестирования на Python <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+   <tr><td width="30%" valign="bottom"><img src="images/logo_stacks/qa_guru.png"></td><td valign="middle">Автоматизация тестирования на Python <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
    
    <tr><td width="30%" valign="bottom"><img src="images/logo_stacks/Prime_soft.png"></td><td valign="middle">SQL. БАЗЫ ДАННЫХ. ORACLE <a target="_blank" href="https://prime-soft.biz/courses/sql">Prime Soft SQL</a>.</td></tr>
