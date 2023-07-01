@@ -13,7 +13,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/Aleksandr_Nikiforoff"><img width="32px" alt="Telegram" title="Telegram" src="images/social_networks/tg.png"/></a>
   &#8287;
-  <a href="https://mail.yandex.ru/compose?mailto=nikiforov1709@yandex.ru"><img width="37px" alt="Write me Email" title="mail.yandex" src="images/social_networks/YA_mail.png"/></a>
+  <a href="https://mail.yandex.ru/compose?mailto=nikiforov1709@yandex.ru"><img width="37px" alt="Write me Email" title="mail.yandex" src="images/social_networks/yandex_mail.png"/></a>
 </p>
 
 
@@ -41,7 +41,7 @@
   <code><img width="5%" title="Android Studio" src="images/logo_stacks/android_studio.png"></code>
   <code><img width="5%" title="Postman" src="images/logo_stacks/postman.png"></code>
   <code><img width="5%" title="Telegram" src="images/logo_stacks/tg.png"></code>
-  <code><img width="5%" title="SQL" src="images/logo_stacks/SQL.png"></code>
+  <code><img width="5%" title="SQL" src="images/logo_stacks/SQL_Logo.png"></code>
   <code><img width="5%" title="Xmind" src="images/logo_stacks/xmind.png"></code>
 </p>
 
