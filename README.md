@@ -13,7 +13,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/Aleksandr_Nikiforoff"><img width="32px" alt="Telegram" title="Telegram" src="images/social_networks/tg.png"/></a>
   &#8287;
-  <a href="https://mail.yandex.ru/compose?mailto=nikiforov1709@yandex.ru"><img width="37px" alt="Write me Email" title="mail.yandex" src="images/social_networks/mail.yandex.png"/></a>
+  <a href="https://mail.yandex.ru/compose?mailto=nikiforov1709@yandex.ru"><img width="37px" alt="Write me Email" title="mail.yandex" src="images/social_networks/YA_mail.png"/></a>
 </p>
 
 
@@ -51,7 +51,7 @@
 ## :man_student: Образование
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="bottom"><img src="images/logo_stacks/RTF_logo.png"></td><td valign="middle">Уральский федеральный университет.</br>Институт радиоэлектроники и информационных технологий.</td></tr>
+    <td width="30%" valign="bottom"><img src="images/logo_stacks/RTF_logo.jpg"></td><td valign="middle">Уральский федеральный университет.</br>Институт радиоэлектроники и информационных технологий.</td></tr>
   </table>
   </br>
   
