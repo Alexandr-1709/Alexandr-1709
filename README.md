@@ -57,7 +57,7 @@
   
   #### Курсы:
 <table width="100%" border='0'>
-   <tr><td width="30%" valign="bottom"><img src="images/logo_stacks/shultais.png"></td><td valign="middle">Основы SQL <a target="_blank" href="https://stepik.org/course/51562/syllabus">shultais school</a>.</td></tr>
+   <tr><td width="30%" valign="bottom"><img src="images/logo_stacks/shultais.png"></td><td valign="middle">Основы SQL и баз данных <a target="_blank" href="https://stepik.org/course/51562/syllabus">shultais school</a>.</td></tr>
    
    <tr><td width="30%" valign="bottom"><img src="images/logo_stacks/qa_guru.png"></td><td valign="middle">Автоматизация тестирования на Python <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
