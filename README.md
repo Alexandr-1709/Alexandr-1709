@@ -20,7 +20,7 @@
 <!--Stack and tools-->
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
-## :computer: hammer_and_wrench: Стек и инструменты
+## :hammer_and_wrench: Стек и инструменты
 <p  align="center">
   <code><img width="5%" title="Pycharm" src="images/logo_stacks/pycharm.png"></code>
   <code><img width="5%" title="Python" src="images/logo_stacks/python.png"></code>
