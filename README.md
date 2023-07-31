@@ -47,10 +47,10 @@
 
 ## 💾 Projects:
 ### UI autotests
-##### <img width="10%" title="GitHub" src="images/logo/github.png"> [Book_House](https://github.com/Alexandr-1709/Motivtelecom_Diploma_UI)
+##### <img width="10%" title="GitHub" src="images/logo_stacks/github.png"> [Book_House](https://github.com/Alexandr-1709/Motivtelecom_Diploma_UI)
 
 ### API autotests
-##### <img width="10%" title="GitHub" src="images/logo/github.png"> [Diploma_API](https://github.com/Alexandr-1709/Diploma_API)
+##### <img width="10%" title="GitHub" src="images/logo_stacks/github.png"> [Diploma_API](https://github.com/Alexandr-1709/Diploma_API)
 &#8287;&#8287;&#8287;&#8287;&#8287;
 
 
